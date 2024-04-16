@@ -1,5 +1,11 @@
 package com.zavala.bancos;
 
-public class ApplicationConfiguration {
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-}
+/**
+ * 
+ * @author Ramiro
+ *
+ */
+@SpringBootApplication
+public class ApplicationConfiguration {}

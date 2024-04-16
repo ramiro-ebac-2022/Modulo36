@@ -1,5 +1,10 @@
 package com.zavala.bancos.shop;
 
+/**
+ * 
+ * @author Ramiro
+ *
+ */
 public class LineItem {
 
 	private final String caption;
